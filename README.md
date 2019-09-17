@@ -63,5 +63,6 @@ Happy Birthday!
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+Was unable to figure out exactly how to code an action based on the timer hitting zero. I was able to have the timer countdown from reset, however.
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
