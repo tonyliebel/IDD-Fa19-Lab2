@@ -5,6 +5,7 @@ Include your responses to the bold questions below. Include snippets of code tha
 ## Part A. Solder your LCD panel
 
 **Take a picture of your soldered panel and add it here!**
+https://github.com/tonyliebel/Interactive-Lab-Hub/blob/master/SolderLCD.JPG
 
 ## Part B. Writing to the LCD
  
@@ -49,6 +50,7 @@ void loop()
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
+https://github.com/tonyliebel/Interactive-Lab-Hub/blob/master/serial%20output.MTS
 
 
 ## Part D. Make your Arduino sing!
@@ -64,5 +66,5 @@ Happy Birthday!
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 Was unable to figure out exactly how to code an action based on the timer hitting zero. I was able to have the timer countdown from reset, however.
-
+https://github.com/tonyliebel/Interactive-Lab-Hub/blob/master/Timer.MTS
 **b. Post a link to the completed lab report your class hub GitHub repo.**
